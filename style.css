@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+header{
+    color: white;
+}
+.cabecalho-imagem{
+    width: 10%;
+    display: inline-block;
+}
+ul{
+    width: 60%;
+}
+.h3{
+    width: 20%;
+}
+.h31{
+    width: 40%;
+}
+.h32{
+    width: 30%;
+}
+.h5{
+    width: 40%;
+}
+.h6{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+    display: inline-block;
+}
